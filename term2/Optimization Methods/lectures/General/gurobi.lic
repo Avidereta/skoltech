@@ -1,0 +1,12 @@
+# License ID 78024
+# Gurobi license for Skolkovo Institute of Science and Technology
+ORGANIZATION=Skolkovo Institute of Science and Technology
+TYPE=TOKEN
+TOKENSERVER=10.17.11.63
+HOSTNAME=10.17.11.63
+HOSTID=1c716d2d
+SOCKETS=4
+EXPIRATION=2015-12-08
+VERSION=6
+USELIMIT=1024
+KEY=3MFTUKLM
